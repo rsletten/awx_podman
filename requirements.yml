@@ -1,0 +1,5 @@
+---
+- src: https://github.com/rsletten/awx_pod
+  name: awx_pod
+- src: https://github.com/rsletten/podman-container-systemd
+  name: podman_container_systemd
